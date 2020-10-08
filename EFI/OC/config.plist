@@ -616,21 +616,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K950100GUK3F78C</string>
+			<string> modifyme </string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
-			<data>tC6Zi48e</data>
+			<data> modifyme </data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KZT3ZVP7QM</string>
+			<string> modifyme </string>
 			<key>SystemUUID</key>
-			<string>C769CCD5-33AC-420B-9297-47ABDBF41782</string>
+			<string> modifyme </string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
