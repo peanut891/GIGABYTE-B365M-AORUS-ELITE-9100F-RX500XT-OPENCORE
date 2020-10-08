@@ -1,7 +1,7 @@
 GIGABYTE B365 M AORUS ELITE + 9100F + GIGABYTE RX 5500XT OC
 ====
-    基于Opencore 0.6.2 引导
-    Based on OpenCore 0.6.2
+    基于 Opencore 0.6.2 引导，USBPorts.kext 已定制
+    Based on OpenCore 0.6.2，USBPorts.kext already made
 ---
     配置信息(Platform Info)
 | 组件 (Component)    | 型号 (Model)               |
